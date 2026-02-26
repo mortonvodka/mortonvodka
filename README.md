@@ -8,6 +8,7 @@
 - HTML
 - CSS
 - MarkDown
+- Bash
 
 ### These are my projects
 - [QuickTerminal](https://github.com/mortonvodka/quickterminal)
