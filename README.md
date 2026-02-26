@@ -12,3 +12,4 @@
 
 ### These are my projects
 - [QuickTerminal](https://github.com/mortonvodka/quickterminal)
+- [WMware Drivers .inf files](https://github.com/mortonvodka/VMware-Drivers)
