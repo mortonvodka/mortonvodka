@@ -7,5 +7,7 @@
 - Batch
 - HTML
 - CSS
+- MarkDown
 
 ### These are my projects
+- [QuickTerminal](https://github.com/mortonvodka/quickterminal)
